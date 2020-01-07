@@ -1,7 +1,10 @@
 # sapper-template
-##ADDITIONS
 
-Includes extra support for SCSS in webpack and svelte config files and also includes appveyor and nowignore files
+## ADDITIONS to this Template
+
+Includes support for SCSS in webpack and svelte config files and also includes appveyor and nowignore files for deployment's
+
+Package.json running scripts ammended slightly for export deployment only (Suitable for more hosting platforms)
 
 ## Getting started
 
